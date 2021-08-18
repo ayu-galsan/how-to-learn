@@ -140,6 +140,7 @@
   flex-wrap: wrap;
   justify-content: space-between;
   margin: 0 auto 100px;
+  padding: 0;
 }
 
 .table__cell {
