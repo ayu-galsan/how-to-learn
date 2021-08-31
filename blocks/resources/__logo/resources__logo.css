@@ -3,9 +3,9 @@
   height: 38px;
   padding: 0;
   margin: 0;
+  transition: opacity 1s linear 0.2s;
 }
 
 .resources__logo:hover {
   opacity: 0.5;
-  transition: opacity 1s linear 0.2s;
 }
